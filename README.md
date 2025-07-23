@@ -15,10 +15,6 @@
 * Any IDE with Flutter SDK installed (Android Studio, VSCode etc)
 * A little knowledge of Dart and Flutter
 
- ### 👨‍💻  Author
-
- Ui developed by DamiFlutter [![Twitter Follow](https://img.shields.io/twitter/follow/MortyWentMia.svg?style=social)](https://twitter.com/MortyWentMia)
-
 # Screenshot:
 
 <img src="/assets/images/dating_app1.jpg"/>
@@ -28,10 +24,5 @@
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
 
